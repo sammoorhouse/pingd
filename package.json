@@ -1,0 +1,16 @@
+{
+  "name": "pingd",
+  "version": "1.0.0",
+  "description": "ping daemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Moorhouse <sam.j.moorhouse@gmail.com> (http://www.github.com/sammoorhouse)",
+  "license": "ISC",
+  "dependencies": {
+    "date-utils": "^1.2.16",
+    "mongoose": "^3.8.25",
+    "morgan": "^1.5.2"
+  }
+}
